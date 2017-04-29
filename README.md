@@ -2,4 +2,4 @@
 
 Spring boot with spring security implemented with JDBC
 
-URL : http://localhost:8080/TestJettyWithSecurity/
+More details on blog : http://roshanonjava.blogspot.in/2017/04/spring-security-with-spring-boot.html
