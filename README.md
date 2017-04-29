@@ -1,4 +1,4 @@
-# SprintSecurityJDBC
+# SpringSecurityJDBC
 
 Spring boot with spring security implemented with JDBC
 
